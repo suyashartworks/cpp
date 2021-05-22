@@ -1,4 +1,6 @@
 // Code by Suyash Mudiya
+// Selection sort
+// This sorting algorithm is like picking up the smallest in the array and directly putting it in front.
 #include <iostream>
 using namespace std;
 
