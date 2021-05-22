@@ -1,5 +1,6 @@
 // Code by Suyash Mudiya
-
+// Bubble Sort
+// This sorting algorithm works on swapping elements in passes.
 #include <iostream>
 using namespace std;
 
